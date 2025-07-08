@@ -1,9 +1,8 @@
 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊⛱️ WELCOME TO MY GITHUB! 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
-Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở thành một **Front-end Developer** hiện đại. 
+Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở thành một **Front-end Developer** hiện đại.  
 Đang trên hành trình học hỏi, luyện tập để đạt tới ước mơ bản thân.
 
----
 
 ## 🛠️ Kỹ năng & Công cụ sử dụng
 
@@ -20,14 +19,11 @@ Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-
 ### 🎨 Thiết kế:
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-
-
 
 ### 🧰 Công cụ khác:
 <p align="left">
@@ -36,28 +32,25 @@ Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở 
 </p>
 
 
----
-
 ## 💪 Thế mạnh cá nhân
 
-- 🌟 Chủ động học hỏi, tư duy logic tốt và yêu thích giải quyết vấn đề
-- 🤝 Giao tiếp tốt, phối hợp hiệu quả trong làm việc nhóm
-- 🎯 Luôn nỗ lực hoàn thiện kỹ năng chuyên môn từng ngày
+- 🌟 Chủ động học hỏi, tư duy logic tốt và yêu thích giải quyết vấn đề  
+- 🤝 Giao tiếp tốt, phối hợp hiệu quả trong làm việc nhóm  
+- 🎯 Luôn nỗ lực hoàn thiện kỹ năng chuyên môn từng ngày  
 
----
 
 ## 🎯 Mục tiêu phát triển
 
-- Thành thạo các công nghệ Front-end hiện đại
-- Tự triển khai sản phẩm web hoàn chỉnh
-- Đóng góp vào dự án thật mang lại giá trị cho người dùng
+- Thành thạo các công nghệ Front-end hiện đại  
+- Tự triển khai sản phẩm web hoàn chỉnh  
+- Đóng góp vào dự án thật mang lại giá trị cho người dùng  
 
----
 
+<br>
 
 > 💡 *"Mọi nỗ lực đều sẽ được đền đáp nếu bạn không từ bỏ."*
-                                                                                                                                                                                                                                                                                                                                                                        
+
+<br><br>
 
 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊⛱️ WELCOME TO MY GITHUB! 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-
 

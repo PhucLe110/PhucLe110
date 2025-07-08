@@ -1,4 +1,4 @@
-                  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊⛱️ WELCOME TO MY GITHUB! 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊⛱️ WELCOME TO MY GITHUB! 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
 Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở thành một **Front-end Developer** hiện đại. 
 Đang trên hành trình học hỏi, luyện tập để đạt tới ước mơ bản thân.
@@ -59,6 +59,6 @@ Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở 
 > 💡 *"Mọi nỗ lực đều sẽ được đền đáp nếu bạn không từ bỏ."*
                                                                                                                                                                                                                                                                                                                                                                         
 
-                  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊⛱️ WELCOME TO MY GITHUB! 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊⛱️ WELCOME TO MY GITHUB! 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
 

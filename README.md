@@ -54,7 +54,6 @@ Mình là sinh viên ngành **Công nghệ thông tin**, định hướng trở 
 
 ---
 
----
 
 > 💡 *"Mọi nỗ lực đều sẽ được đền đáp nếu bạn không từ bỏ."*
                                                                                                                                                                                                                                                                                                                                                                         
